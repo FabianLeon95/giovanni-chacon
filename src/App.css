@@ -1,10 +1,3 @@
-.bg-main {
-    background-image: url("src/assets/driver.jpg");
-    background-position: center;
-    background-size: cover;
-    min-height: 100vh;
-}
-
 .text-custom {
     color: #DEBF6C!important;
 }
